@@ -1,2 +1,3 @@
 # scm
 hello
+hi
